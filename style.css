@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    margin: 0, 15%;
+    width: 75%;
+    border: 2px, solid, blue;
+}
+
+.head1 {
+    background-color: lightgray;
+    margin-top: 20px;
+    padding: 0;
+    margin-bottom: 0px;
+}
+
+.head2 {
+    background-color: lightgray;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+    font-size: smaller;
+}
+
+iframe {
+    max-width: 100%;
+    margin-top: 0;
+}
